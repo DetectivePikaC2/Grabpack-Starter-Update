@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poppy Playtime 3 Switch Lever
+* source:	https://sketchfab.com/3d-models/poppy-playtime-3-switch-lever-0039904b89cc4884b30304ecdbabd0e2
+* author:	TOY WAR (https://sketchfab.com/toywar.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poppy Playtime 3 Switch Lever" (https://sketchfab.com/3d-models/poppy-playtime-3-switch-lever-0039904b89cc4884b30304ecdbabd0e2) by TOY WAR (https://sketchfab.com/toywar.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

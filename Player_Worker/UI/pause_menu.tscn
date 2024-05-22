@@ -1,0 +1,109 @@
+[gd_scene load_steps=5 format=3 uid="uid://chrjxcrbanamq"]
+
+[ext_resource type="Shader" path="res://Player_Worker/UI/pause_menu_vhs.gdshader" id="1_ta1hs"]
+[ext_resource type="Script" path="res://Player_Worker/UI/pause_menu_script.gd" id="1_v620s"]
+[ext_resource type="FontFile" uid="uid://dcrhrriv2kmjx" path="res://Texture/Font/easvhs/easvhs.ttf" id="3_mdlm7"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_q6squ"]
+shader = ExtResource("1_ta1hs")
+shader_parameter/range = 0.05
+shader_parameter/noiseQuality = 250.0
+shader_parameter/noiseIntensity = 0.0088
+shader_parameter/offsetIntensity = 0.03
+shader_parameter/colorOffsetIntensity = 1.3
+
+[node name="pause_menu" type="Control" groups=["Pause"]]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_v620s")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -16.0
+offset_top = -12.0
+offset_right = 16.0
+offset_bottom = 12.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.454902)
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="."]
+material = SubResource("ShaderMaterial_q6squ")
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -28.0
+offset_top = -25.0
+offset_right = 28.0
+offset_bottom = 25.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 0
+
+[node name="SubViewport" type="SubViewport" parent="SubViewportContainer"]
+handle_input_locally = false
+size = Vector2i(1152, 648)
+render_target_update_mode = 4
+
+[node name="main" type="Node2D" parent="."]
+
+[node name="Label" type="Label" parent="main"]
+offset_left = 68.0
+offset_top = 60.0
+offset_right = 326.0
+offset_bottom = 144.0
+theme_override_fonts/font = ExtResource("3_mdlm7")
+theme_override_font_sizes/font_size = 61
+text = "{Paused}"
+
+[node name="buttons" type="Node2D" parent="main"]
+position = Vector2(0, -30)
+
+[node name="resume" type="Button" parent="main/buttons"]
+offset_left = 67.0
+offset_top = 357.0
+offset_right = 323.0
+offset_bottom = 410.0
+theme_override_fonts/font = ExtResource("3_mdlm7")
+theme_override_font_sizes/font_size = 41
+text = "Resume"
+
+[node name="load" type="Button" parent="main/buttons"]
+offset_left = 67.0
+offset_top = 420.0
+offset_right = 323.0
+offset_bottom = 470.0
+theme_override_fonts/font = ExtResource("3_mdlm7")
+theme_override_font_sizes/font_size = 41
+text = "Load Game"
+
+[node name="title" type="Button" parent="main/buttons"]
+offset_left = 67.0
+offset_top = 480.0
+offset_right = 323.0
+offset_bottom = 530.0
+theme_override_fonts/font = ExtResource("3_mdlm7")
+theme_override_font_sizes/font_size = 41
+text = "Title Screen"
+
+[node name="quit" type="Button" parent="main/buttons"]
+offset_left = 68.0
+offset_top = 542.0
+offset_right = 324.0
+offset_bottom = 592.0
+theme_override_fonts/font = ExtResource("3_mdlm7")
+theme_override_font_sizes/font_size = 41
+text = "Quit Game"
+
+[connection signal="pressed" from="main/buttons/resume" to="." method="_on_resume_pressed"]
+[connection signal="pressed" from="main/buttons/load" to="." method="_on_load_pressed"]
+[connection signal="pressed" from="main/buttons/title" to="." method="_on_title_pressed"]
+[connection signal="pressed" from="main/buttons/quit" to="." method="_on_quit_pressed"]

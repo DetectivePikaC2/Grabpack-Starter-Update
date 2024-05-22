@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0bov8nl28jvq"
+path="res://.godot/imported/SFX gate sfx.mp3-15dc59e970fc6d183f579ff792248643.mp3str"
+
+[deps]
+
+source_file="res://Audio/map/doors/SFX gate sfx.mp3"
+dest_files=["res://.godot/imported/SFX gate sfx.mp3-15dc59e970fc6d183f579ff792248643.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

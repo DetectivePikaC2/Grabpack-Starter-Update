@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ddlbpe1b7j87g"
+path="res://.godot/imported/SFX rock avalanche landslide debris 01.mp3-e561daf13cb0985a947861c4c2f12c84.mp3str"
+
+[deps]
+
+source_file="res://Audio/map/SFX rock avalanche landslide debris 01.mp3"
+dest_files=["res://.godot/imported/SFX rock avalanche landslide debris 01.mp3-e561daf13cb0985a947861c4c2f12c84.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

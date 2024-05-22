@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cbcjqah7vyimd"
+path="res://.godot/imported/SFX Characters Player PlayerWalk RegularJump jump2.mp3-1e93e1da19cf822b1def1c220cc3d9e4.mp3str"
+
+[deps]
+
+source_file="res://Audio/player/SFX Characters Player PlayerWalk RegularJump jump2.mp3"
+dest_files=["res://.godot/imported/SFX Characters Player PlayerWalk RegularJump jump2.mp3-1e93e1da19cf822b1def1c220cc3d9e4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poppy Playtime 3 : purple hand pannel (jump pad)
+* source:	https://sketchfab.com/3d-models/poppy-playtime-3-purple-hand-pannel-jump-pad-aa130ca0351a4c31b8c67ffc8354b5e6
+* author:	popuitwe1 (https://sketchfab.com/popuitwe1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poppy Playtime 3 : purple hand pannel (jump pad)" (https://sketchfab.com/3d-models/poppy-playtime-3-purple-hand-pannel-jump-pad-aa130ca0351a4c31b8c67ffc8354b5e6) by popuitwe1 (https://sketchfab.com/popuitwe1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

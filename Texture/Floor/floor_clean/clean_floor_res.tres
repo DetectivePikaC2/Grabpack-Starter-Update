@@ -1,0 +1,15 @@
+[gd_resource type="StandardMaterial3D" load_steps=4 format=3 uid="uid://cgm8x323mp6j"]
+
+[ext_resource type="Texture2D" uid="uid://mk4cigyocbeg" path="res://Texture/Floor/floor_clean/Material_baseColor.png" id="1_wtrjq"]
+[ext_resource type="Texture2D" uid="uid://cajrul2l7db5t" path="res://Texture/Floor/floor_clean/Material_normal.png" id="2_yu840"]
+[ext_resource type="Texture2D" uid="uid://cpyxwjwkjuvdp" path="res://Texture/Floor/floor_clean/Material_metallicRoughness.png" id="3_60lox"]
+
+[resource]
+albedo_texture = ExtResource("1_wtrjq")
+roughness_texture = ExtResource("3_60lox")
+normal_enabled = true
+normal_scale = 2.0
+normal_texture = ExtResource("2_yu840")
+uv1_scale = Vector3(0.365, 0.365, 0.365)
+uv1_triplanar = true
+uv1_world_triplanar = true

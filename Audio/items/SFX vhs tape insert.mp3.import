@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://h2krg5p1w8q1"
+path="res://.godot/imported/SFX vhs tape insert.mp3-f8d9a2c7454481f6ebceaa9f3bf3d215.mp3str"
+
+[deps]
+
+source_file="res://Audio/items/SFX vhs tape insert.mp3"
+dest_files=["res://.godot/imported/SFX vhs tape insert.mp3-f8d9a2c7454481f6ebceaa9f3bf3d215.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

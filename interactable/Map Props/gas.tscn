@@ -1,0 +1,28 @@
+[gd_scene load_steps=4 format=3 uid="uid://hova33meowua"]
+
+[ext_resource type="Script" path="res://interactable/Map Props/gas.gd" id="1_7ax3w"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_p6u4e"]
+
+[sub_resource type="FogMaterial" id="FogMaterial_1x6n7"]
+density = 0.2
+albedo = Color(1, 0, 0, 1)
+emission = Color(1, 0, 0, 1)
+
+[node name="gas" type="Node3D"]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0)
+script = ExtResource("1_7ax3w")
+
+[node name="area" type="Area3D" parent="."]
+collision_layer = 128
+collision_mask = 128
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="area"]
+shape = SubResource("BoxShape3D_p6u4e")
+
+[node name="FogVolume" type="FogVolume" parent="."]
+size = Vector3(1, 1, 1)
+material = SubResource("FogMaterial_1x6n7")
+
+[connection signal="area_entered" from="area" to="." method="_on_area_area_entered"]
+[connection signal="area_exited" from="area" to="." method="_on_area_area_exited"]

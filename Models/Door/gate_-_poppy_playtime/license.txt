@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gate - Poppy Playtime
+* source:	https://sketchfab.com/3d-models/gate-poppy-playtime-18764037a6be448c856c349c428824d8
+* author:	alexbon666 (https://sketchfab.com/alexbon.game.us10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gate - Poppy Playtime" (https://sketchfab.com/3d-models/gate-poppy-playtime-18764037a6be448c856c349c428824d8) by alexbon666 (https://sketchfab.com/alexbon.game.us10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

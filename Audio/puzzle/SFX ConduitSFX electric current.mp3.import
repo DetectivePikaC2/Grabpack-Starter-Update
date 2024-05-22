@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cnd43ro10dfq5"
+path="res://.godot/imported/SFX ConduitSFX electric current.mp3-42281089de39e00afb901b2f4f5ff5fe.mp3str"
+
+[deps]
+
+source_file="res://Audio/puzzle/SFX ConduitSFX electric current.mp3"
+dest_files=["res://.godot/imported/SFX ConduitSFX electric current.mp3-42281089de39e00afb901b2f4f5ff5fe.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

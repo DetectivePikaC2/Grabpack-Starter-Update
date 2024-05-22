@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poppy Playtime 3 Blue Hand Scanner
+* source:	https://sketchfab.com/3d-models/poppy-playtime-3-blue-hand-scanner-b941bf12546d43c4961395e34a67da58
+* author:	TOY WAR (https://sketchfab.com/toywar.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poppy Playtime 3 Blue Hand Scanner" (https://sketchfab.com/3d-models/poppy-playtime-3-blue-hand-scanner-b941bf12546d43c4961395e34a67da58) by TOY WAR (https://sketchfab.com/toywar.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

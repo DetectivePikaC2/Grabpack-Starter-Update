@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage VHS Player 1
+* source:	https://sketchfab.com/3d-models/vintage-vhs-player-1-19e9ec41b4234e46a3503e8376f3e7a5
+* author:	Tejay21 (https://sketchfab.com/tejay21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage VHS Player 1" (https://sketchfab.com/3d-models/vintage-vhs-player-1-19e9ec41b4234e46a3503e8376f3e7a5) by Tejay21 (https://sketchfab.com/tejay21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

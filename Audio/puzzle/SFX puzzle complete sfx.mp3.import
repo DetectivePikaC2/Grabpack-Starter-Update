@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dl0rkl8yk4xls"
+path="res://.godot/imported/SFX puzzle complete sfx.mp3-1538c0b6ebcaa16a213b22cd161977ad.mp3str"
+
+[deps]
+
+source_file="res://Audio/puzzle/SFX puzzle complete sfx.mp3"
+dest_files=["res://.godot/imported/SFX puzzle complete sfx.mp3-1538c0b6ebcaa16a213b22cd161977ad.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

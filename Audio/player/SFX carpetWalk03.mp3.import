@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cejwh3equxlh2"
+path="res://.godot/imported/SFX carpetWalk03.mp3-39093c4b3134835cfd505a7a03178bc0.mp3str"
+
+[deps]
+
+source_file="res://Audio/player/SFX carpetWalk03.mp3"
+dest_files=["res://.godot/imported/SFX carpetWalk03.mp3-39093c4b3134835cfd505a7a03178bc0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

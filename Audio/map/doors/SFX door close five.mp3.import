@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://caoqnp8k6ypv7"
+path="res://.godot/imported/SFX door close five.mp3-35316f3e50747f02eb9206f820ce72b0.mp3str"
+
+[deps]
+
+source_file="res://Audio/map/doors/SFX door close five.mp3"
+dest_files=["res://.godot/imported/SFX door close five.mp3-35316f3e50747f02eb9206f820ce72b0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

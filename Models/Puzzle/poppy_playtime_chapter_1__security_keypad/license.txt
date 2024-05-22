@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poppy Playtime Chapter 1 : Security Keypad
+* source:	https://sketchfab.com/3d-models/poppy-playtime-chapter-1-security-keypad-906fa61889844f6f9f349596888e7b4b
+* author:	Vito_H01! (https://sketchfab.com/Vito_H01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poppy Playtime Chapter 1 : Security Keypad" (https://sketchfab.com/3d-models/poppy-playtime-chapter-1-security-keypad-906fa61889844f6f9f349596888e7b4b) by Vito_H01! (https://sketchfab.com/Vito_H01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Puzzle Assets (Chapter 3) - Poppy Playtime
+* source:	https://sketchfab.com/3d-models/puzzle-assets-chapter-3-poppy-playtime-13b009d06ec1466693b0617b32c023a4
+* author:	MG Rips (https://sketchfab.com/MG_GameRips)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Puzzle Assets (Chapter 3) - Poppy Playtime" (https://sketchfab.com/3d-models/puzzle-assets-chapter-3-poppy-playtime-13b009d06ec1466693b0617b32c023a4) by MG Rips (https://sketchfab.com/MG_GameRips) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

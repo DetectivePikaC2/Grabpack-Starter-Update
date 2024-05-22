@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dcxwnj5bhfkco"
+path="res://.godot/imported/SFX item grab v3.mp3-f846e5b2616dfcb0ec048f619410e45d.mp3str"
+
+[deps]
+
+source_file="res://Audio/items/SFX item grab v3.mp3"
+dest_files=["res://.godot/imported/SFX item grab v3.mp3-f846e5b2616dfcb0ec048f619410e45d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
